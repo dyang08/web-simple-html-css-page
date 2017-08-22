@@ -7,14 +7,14 @@ main {
 }
 
 h1 {
-  font-family: Arial;
+  font-family: 'PT Serif', serif;
   font-size: 32px;
   color: darkred;
   text-align: center;
 }
 
 p {
-  font-family: Tahoma;
+  font-family: 'PT Sans', sans-serif;
   font-size: 16px;
   color: black;
   
