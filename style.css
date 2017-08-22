@@ -1,11 +1,30 @@
+body {
+  background-color: #FFEBEB;
+}
+
+main {
+  border: 2px solid #9D0000;
+}
+
 h1 {
   font-family: Arial;
   font-size: 32px;
-  color: black;
+  color: darkred;
+  text-align: center;
 }
 
 p {
   font-family: Tahoma;
   font-size: 16px;
   color: black;
+  
+}
+
+a:hover {
+  background-color: gold;
+}
+
+img {
+  border-color: blue;
+  width: 100%;
 }
